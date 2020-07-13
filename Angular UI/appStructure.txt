@@ -1,0 +1,17 @@
+● src
++---● app
+|   +--● contacts
+|   |  |--contacts.component.ts|.html|.css
+|   |  +--● contact
+|   |  |  |--contact.component.ts|.html|.css
+|   |  |
+|   |  +--● contactlist
+|   |  |  |--contactlist.component.ts|.html|.css
+|   |  |
+|   |  +--● shared
+|   |     |--contact.service.ts
+|   |     |--contact.model.ts
+|   |
+|   |--app.module.ts
+|
+|--index.html (cdn path for bootstrap & fa icons)
